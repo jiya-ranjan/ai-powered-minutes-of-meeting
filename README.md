@@ -35,17 +35,6 @@ It combines **Whisper.cpp** for accurate speech recognition with **LLMs** (Large
 
 ---
 
-## 🧩 System Architecture
-
-[React Frontend]
-↓
-[Flask/FastAPI Backend API]
-↓
-[Whisper.cpp Speech Recognition]
-↓
-[LLM Summarization Engine]
-↓
-[Minutes of Meeting Output]
 
 ## ⚡ Usage
 
